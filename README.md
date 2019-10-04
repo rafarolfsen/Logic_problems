@@ -1,2 +1,2 @@
 # Logic_problems
-Solutions for some lógic problems
+Solutions for some logical problems
